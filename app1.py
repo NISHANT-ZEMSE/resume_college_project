@@ -24,7 +24,7 @@ EMAIL = "zemsenishant.twitter@outlook.com"
 SOCIAL_MEDIA = {
     "LinkedIn" : "https://www.linkedin.com/in/zemse-nishant/",
     "Twitter" : "https://twitter.com/@zemse_Nishant",
-    "Instagram":"",
+    "Instagram":"https://www.instagram.com/imnot__nishant/",
 }
 
 
