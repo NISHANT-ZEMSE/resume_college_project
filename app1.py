@@ -78,7 +78,7 @@ for index, (platform, link) in enumerate(SOCIAL_MEDIA.items()):
 st.write("#")
 st.subheader("KEY INTERESTS")
 st.write("""
- - ✔️ With a growing passion for technology, I'm currently focusing on 𝗣̲𝘆̲𝘁̲𝗵̲𝗼̲𝗻̲ ̲𝗽̲𝗿̲𝗼̲𝗴̲𝗿̲𝗮̲𝗺̲𝗺̲𝗶̲𝗻̲𝗴̲ and exploring the dynamic field of 𝘄̲𝗲̲𝗯̲ ̲𝗱̲𝗲̲𝘃̲𝗲̲𝗹̲𝗼̲𝗽̲𝗺̲𝗲̲𝗻̲𝘁̲. 
+ - ✔️ With a growing passion for technology, I'm currently focusing on PYTHON PROGRAMMING and exploring the dynamic field of WEB DEVELOPMENT. 
  - ✔️ I enjoy problem-solving and continuously making great efforts to expand my skills through hands-on learning and real-world projects
  - ✔️ Web Development (HTML, CSS, JavaScript basics)
  - ✔️ Python Programming
